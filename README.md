@@ -1,5 +1,5 @@
 # 👩‍💻 Giuliana Beltrame 
-"Desenvolvedora em formação"
+ 
  Me chamo Giuliana Beltrame Alves, tenho 21 anos e sou de Campinas(sp).
  Atualmente estou no terceiro semestre da faculdade de  Análise e Desenvolvimento
  De Sistemas pelo Centro universitário SENAC. Sou apaixonada por tecnologia e tenho 

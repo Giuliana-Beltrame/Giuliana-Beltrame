@@ -1,11 +1,9 @@
 # 👩‍💻 Giuliana Beltrame 
  
- Me chamo Giuliana Beltrame Alves, tenho 21 anos e sou de Campinas(sp).
- Atualmente estou no terceiro semestre da faculdade de  Análise e Desenvolvimento
- De Sistemas pelo Centro universitário SENAC. Sou apaixonada por tecnologia e tenho 
- grande interesse em desenvolvimento back- end e estou em busca de uma oportumnidade
- na área de tecnologia para colocar meus conhecimentos já adquiridos em prática e para 
- aprender mais ainda e crescer profissionalmente.
+Olá! Meu nome é Giuliana Beltrame Alves, tenho 21 anos e sou de Campinas (SP).
+Atualmente estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
+
+Sou apaixonada por tecnologia e tenho grande interesse em desenvolvimento back-end. Estou em busca de uma oportunidade na área de tecnologia para aplicar os conhecimentos que já adquiri, aprender ainda mais e crescer profissionalmente.
 
 
 
